@@ -71,7 +71,7 @@ let y = 3
 
 
 
-if ((x===8) || (y===8) || (x+y === 8) || (x-y) || (y-x === 8)) {
+if ((x===8) || (y===8) || (x+y === 8) || (x-y === 8) || (y-x === 8)) {
 console.log("Valore Corretto Trovato")
 }
 
